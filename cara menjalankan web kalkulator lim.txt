@@ -1,0 +1,14 @@
+cara menjalankan web kalkulator limit fungsi
+1. buka terminal dan masuk kedalam backend lalu jalankan perintah 
+uvicorn main:app --reload
+
+menyalakann server frontend
+
+1. buka terminal frontend
+2. jalankan npm run dev
+
+mematikan web
+1. buka terminal backend 
+2. tekan ctrl+c
+3. buka terminal frontend
+4. tekan ctrl+c
